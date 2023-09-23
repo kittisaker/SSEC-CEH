@@ -144,3 +144,22 @@ Footprinting --> Scanning --> Enumeraton --> Valnerability Analysis --> System H
     <td>Perform actions to achieve intended objectives/goals</td>
   </tr>
 </table>
+
+### Tactics, Techniques, and Procedures (TTPs)
+The term Tactics, Technniques, and Procedures (TTPs) refers to the <b>patterns of activities and methods</b> associated with specific threat actors or groups of threat actors
+
+<b>Tactics</b>
+* "Tactics" are the guidelines that describe the <b>way an attacker performs the attack</b> from beginning to the end
+* This guideline consists of the various <b>tactics for information gethering</b> to perform initial exploitation, privilege escalation, and lateral movement, and to deploy measures for persistent access to the system and other purposes
+
+<b>Techniques</b>
+* "Techniques" are the <b>technical methods used by an attacker</b> to achieve intermediate results during the attack
+* Thes techniques include <b>initial exploitation</b>, setting up and maintaining <b>command and control channels</b>, accessing the target infrastructure, covering the tracks of data exfiltration, and others
+
+<b>Procedures</b>
+* "Procedures" are <b>organizational approaches that threat actors follow</b> to launch an attack
+* The number of <b>actions usually differs</b> depending on the objectives of the procedure and threat actor group
+
+### MITRE ATT&CK Framework
+1. MITRE ATT&CK is a globally accessible knowledge base of adversary tactics and techniques based on real-word observations
+2. The 
